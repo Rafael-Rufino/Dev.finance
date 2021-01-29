@@ -26,7 +26,7 @@
             <span>Entradas</span>
             <img src="./assets/income.svg" alt=" Imagem de entradas">
           </h3>
-          <p>R$ 5.000,0</p>
+          <p id ="incomeDisplay">R$ 5.000,0</p>
         </div>
 
         <div class="card">
@@ -34,7 +34,7 @@
                 <span>Saidas</span>
                 <img src="./assets/expense.svg" alt=" Imagem de entradas">
             </h3>
-          <p>R$ 2.000,00</p>
+          <p id = "expenseDisplay">R$ 2.000,00</p>
         </div>
 
         <div class="card total">
@@ -42,7 +42,7 @@
               <span>Total</span>
             <img src="./assets/total.svg" alt=" Imagem de entradas">
           </h3>
-          <p>R$ 3.000,00</p>
+          <p id ="totalDisplay">R$ 3.000,00</p>
         </div>
       </section>
 
@@ -67,7 +67,7 @@
             </tr>
           </thead>
           <tbody>
-
+<!-- 
             <tr>
               <td class="description">Luz</td>
               <td class="expense">- R$ 500,00</td>
@@ -94,7 +94,7 @@
               <td>
                 <img src="./assets/minus.svg" alt="Remover transação">
               </td>
-            </tr>
+            </tr> -->
 
           </tbody>
         </table>
@@ -177,26 +177,8 @@
     <footer>
       <p>2021 - dev.finances$</p>
     </footer>
-    <script >
-        // Adicionar a class active
-      const Modal = {
-        open(){
-          // Abrir modal
-          document.querySelector('.modal-overlay') //querySelector => procura dentro do documento
-          .classList.add('active') // classList => adicione active na classe  .modal-overlay 
-          
-
-        },
-      // remover a class active do modal
-        close(){
-          // fechar o Modal
-          document.querySelector('.modal-overlay')
-          .classList.remove('active')
-     
-
-        }
-      }
-
-    </script>
+   <!--Java script-->
+    <script src="/scripts.js"></script>
+  
   </body>
 </html>
