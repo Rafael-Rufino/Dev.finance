@@ -265,7 +265,7 @@ td.expense{
     padding: 2.4rem;
     /*campo adicional*/
     max-width: 500px;
-    width: 90%;
+    width: 90%;F
     z-index:1;
     
 
@@ -294,7 +294,7 @@ input{
 }
 
 /*comentario*/
-.input-group small{
+.input-group .help{
     opacity: 0.4;
 }
 
