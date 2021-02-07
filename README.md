@@ -48,7 +48,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## :heavy_check_mark: :computer: Resultado Web
 
 <h1 align="center">
-    <img alt="Web Home" src="./.github/devFinance.png" width="600px">
+    <img alt="Web Home" title="#Web Home" width="900px" src="./.github/web.png">
 </h1>
 
 </br>
@@ -58,7 +58,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 <h1 align="center">
     <img alt="Web Home" src="./.github/mobile.png" width="300px">
 </h1>
-</br>
+
 
 <a id="como-usar"></a>
 
