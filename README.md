@@ -2,7 +2,7 @@
 <h3 align="center">
     <img alt="Logo" title="#logo" width="300px" src="./.github/logo.svg">
     <br><br>
-    <b> Plataforma Finacias Pessoais!</b>  
+    <b> Plataforma de Financias Pessoais!</b>  
     <br>
 </h3>
 
