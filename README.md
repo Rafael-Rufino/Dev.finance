@@ -21,7 +21,7 @@
 ## :bookmark: Sobre
 
 	
-O <strong>dev.finance$</strong> é uma aplicação Web e Mobile que gerencia as contas pessoais durante o mês, a uxilia os usuarios no controle de seus gastos mensais trazendo um lista de entrada e saida de dinheiro.
+O <strong>dev.finance$</strong>é uma aplicação Web e Mobile que gerencia as contas pessoais durante o mês, essa aplicação auxilia os usuários no controle de seus gastos mensais trazendo um lista de entrada e saída do seu salario.
 
 Essa aplicação foi construída na trilha <strong>Maratona Discover </strong> e  distribuída pela [Rocketseat](https://rocketseat.com.br/). A ideia de criar uma aplicação voltada para gerenciamento de Financias pessoais surgiu da necessidade de usuarios ter controle de seus gastos mensais.
 
@@ -91,6 +91,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 
 ```
+## Pesistencia dos dados
+- No localStorage do navegador, dados ficam salvo no armazenamento local.
 
 
 ## :recycle: Como contribuir
